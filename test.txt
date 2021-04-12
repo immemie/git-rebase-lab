@@ -7,6 +7,6 @@ teacher
 
 line 8-1
 
-line 10
+line 10-1
 
 line 12
