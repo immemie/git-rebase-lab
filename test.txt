@@ -5,8 +5,8 @@ codecamp
 teacher
 
 
-8--
+line 8-1
 
-10--
+line 10-1
 
-12--
+line 12-1
